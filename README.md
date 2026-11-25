@@ -32,8 +32,8 @@ Software engineer focused on front-end development with **React.js**, with hands
 </table>
 
 - **[GradLink](https://github.com/mennaa7med/GradLink)**: my graduation project, a full-stack career platform for graduates. I was the sole developer: a React.js front-end and an ASP.NET Core REST API with a SQL Server database.
-- **[MoviesHub](https://github.com/mennaa7med/movie-site)**: a responsive movie and TV catalog in React with search, genre filters and a favorites list.
-- **[Brew Morning](https://github.com/mennaa7med/coffee-site)**: a responsive multi-page coffee shop website built with React and React Router.
+- **[MoviesHub](https://github.com/mennaa7med/movie-site)**: a responsive movie and TV catalog in React with search, genre filters and a favorites list. [Live demo](https://mennaa7med.github.io/movie-site/)
+- **[Brew Morning](https://github.com/mennaa7med/coffee-site)**: a responsive multi-page coffee shop website built with React and React Router. [Live demo](https://mennaa7med.github.io/coffee-site/)
 - **[Distributed banking system](https://github.com/mennaa7med/Distributed-System-Project-using-Golang)**: a master and client banking app written in Go with MySQL.
 
 ## Experience
