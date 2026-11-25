@@ -4,9 +4,32 @@
 
 # Hi, I'm Mennatullah 👋
 
-Software engineer focused on front-end development with **React.js**, with hands-on back-end experience in **C#, ASP.NET Core and SQL Server**. I graduated in January 2026 with a Bachelor's in Computer and Information Science (Information Systems) from Assiut University.
+Software engineer focused on front-end development with **React.js**, with hands-on back-end experience in **C#, ASP.NET Core and SQL Server**. I graduated in 2026 with a Bachelor's in Computer and Information Science (Information Systems) from Assiut University.
+
+<p>
+  <a href="https://www.linkedin.com/in/mennatullah-ahmed-333335358/"><img src="assets/linkedin.svg" alt="Connect with me on LinkedIn" width="260"></a>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, stack, currently learning" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</p>
 
 ## Projects
+
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/mennaa7med/GradLink"><img src="assets/tile-gradlink.svg" alt="GradLink" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/mennaa7med/movie-site"><img src="assets/tile-movieshub.svg" alt="MoviesHub" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/mennaa7med/coffee-site"><img src="assets/tile-coffee.svg" alt="Brew Morning" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/mennaa7med/Distributed-System-Project-using-Golang"><img src="assets/tile-banking.svg" alt="Distributed banking system" width="100%"></a></td>
+</tr>
+</table>
 
 - **[GradLink](https://github.com/mennaa7med/GradLink)**: my graduation project, a full-stack career platform for graduates. I was the sole developer: a React.js front-end and an ASP.NET Core REST API with a SQL Server database.
 - **[MoviesHub](https://github.com/mennaa7med/movie-site)**: a responsive movie and TV catalog in React with search, genre filters and a favorites list.
@@ -15,23 +38,20 @@ Software engineer focused on front-end development with **React.js**, with hands
 
 ## Problem solving
 
-400+ problems solved on [Codeforces](https://codeforces.com/profile/Menna_Ahmed11).
+<a href="https://codeforces.com/profile/Menna_Ahmed11">
+  <img src="assets/codeforces.svg" alt="400+ problems solved on Codeforces" width="600">
+</a>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</p>
 
 ## Skills
 
 React.js · JavaScript (ES6+) · HTML5 · CSS3 · Responsive Design · C# · ASP.NET Core · REST APIs · Entity Framework · SQL Server · MySQL · Go · Python · Git and GitHub
 
 <p>
-  <img src="assets/icons/react.svg" alt="React" height="44">
-  <img src="assets/icons/javascript.svg" alt="JavaScript" height="44">
-  <img src="assets/icons/html5.svg" alt="HTML5" height="44">
-  <img src="assets/icons/css.svg" alt="CSS" height="44">
-  <img src="assets/icons/dotnet.svg" alt=".NET" height="44">
-  <img src="assets/icons/mysql.svg" alt="MySQL" height="44">
-  <img src="assets/icons/go.svg" alt="Go" height="44">
-  <img src="assets/icons/python.svg" alt="Python" height="44">
-  <img src="assets/icons/git.svg" alt="Git" height="44">
-  <img src="assets/icons/github.svg" alt="GitHub" height="44">
+  <img src="assets/skills.svg" alt="React, JavaScript, HTML5, CSS, .NET, MySQL, Go, Python, Git, GitHub" width="560">
 </p>
 
 ## Also studied (self-learning, not yet used in the projects above)
@@ -39,10 +59,7 @@ React.js · JavaScript (ES6+) · HTML5 · CSS3 · Responsive Design · C# · ASP
 TypeScript · Next.js · Node.js · Express · REST API design · databases · authentication
 
 <p>
-  <img src="assets/icons/typescript.svg" alt="TypeScript" height="44">
-  <img src="assets/icons/nextdotjs.svg" alt="Next.js" height="44">
-  <img src="assets/icons/nodedotjs.svg" alt="Node.js" height="44">
-  <img src="assets/icons/express.svg" alt="Express" height="44">
+  <img src="assets/studied.svg" alt="TypeScript, Next.js, Node.js, Express" width="232">
 </p>
 
 I'm continuing with these, and applying them in projects next.
