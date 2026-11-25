@@ -36,6 +36,13 @@ Software engineer focused on front-end development with **React.js**, with hands
 - **[Brew Morning](https://github.com/mennaa7med/coffee-site)**: a responsive multi-page coffee shop website built with React and React Router.
 - **[Distributed banking system](https://github.com/mennaa7med/Distributed-System-Project-using-Golang)**: a master and client banking app written in Go with MySQL.
 
+## Experience
+
+- **Freelance Programming Instructor**: taught 300+ students C#, OOP, databases and web fundamentals.
+- **Programming Instructor at Magnum Egypt**: taught Python to 50+ young learners through practical projects.
+- **Backend .NET Intern at ITI**: worked with ASP.NET Core, C# and SQL Server.
+- **Integration Developer Intern at Ejada**: completed training in enterprise applications and system integration.
+
 ## Problem solving
 
 <a href="https://codeforces.com/profile/Menna_Ahmed11">
